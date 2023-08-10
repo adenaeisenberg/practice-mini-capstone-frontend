@@ -1,7 +1,7 @@
 export function ProductsNew() {
   return (
     <div id="products-new">
-      <h2>New Products</h2>
+      <h2>Add a New Product</h2>
       <form>
         <div>
           Name: <input type="text" />
