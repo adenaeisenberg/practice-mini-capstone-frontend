@@ -27,7 +27,7 @@ export function ProductsIndex() {
         <h4>Description: Lots of fun and a great way to get around!!</h4>
         <h4>Price: $39.99</h4>
         <img
-          src="https://www.liveabout.com/thmb/k_hCQttTQTpLXekk_sfnsxMhmiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kidskating-58e13ad55f9b58ef7e3d754d.jpg"
+          src="https://www.liveabout.com/thmb/k_hCQttTQTpLXekk_sfnsxMhmiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/           kidskating-58e13ad55f9b58ef7e3d754d.jpg"
           width="500"
           alt=""
         />
